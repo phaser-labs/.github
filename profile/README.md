@@ -11,8 +11,6 @@ Nuestro objetivo es construir una colección de juegos reutilizables, modulares 
 
 | Repositorio | Descripción |
 |------------|-------------|
-| [`phaser-core`](https://github.com/phaser-labs/phaser-core) | Lógica y utilidades compartidas entre todos los juegos (escenas base, helpers, loaders, etc.). |
-| [`phaser-utils`](https://github.com/phaser-labs/phaser-utils) | Herramientas genéricas, como sistemas de audio, puntajes, animaciones, etc. |
 | [`template`](https://github.com/phaser-labs/template) | Starter kit para crear nuevos juegos con Phaser + React. |
 
 ---
